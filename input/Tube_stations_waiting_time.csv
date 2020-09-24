@@ -1,0 +1,471 @@
+Station,Connection,Wait_time
+Chesham,Chesham (MET),30
+Amersham,Amersham (MET),15
+Watford,Watford (MET),12
+Croxley,Croxley (MET),12
+Chalfont and Latimer,Chalfont and Latimer (MET),15
+Chorleywood,Chorleywood (MET),15
+Rickmansworth,Rickmansworth (MET),15
+Moor Park,Moor Park (MET),7
+Northwood,Northwood (MET),6
+Northwood Hills,Northwood Hills (MET),6
+Pinner,Pinner (MET),6
+North Harrow,North Harrow (MET),6
+Uxbridge,Uxbridge (MET),7
+Hillingdon,Hillingdon (MET),7
+Ickenham,Ickenham (MET),7
+Ruislip,Ruislip (MET),7
+Ruislip Manor,Ruislip Manor (MET),7
+Eastcote,Eastcote (MET),7
+Rayners Lane,Rayners Lane (MET),7
+West Harrow,West Harrow (MET),7
+Harrow-on-the-Hill,Harrow-on-the-Hill (MET),5
+Northwick Park,Northwick Park (MET),5
+Preston Road,Preston Road (MET),5
+Wembley Park,Wembley Park (MET),5
+Finchley Road,Finchley Road (MET),5
+Baker Street,Baker Street (MET),4
+Great Portland Street,Great Portland Street (MET),4
+Euston Square,Euston Square (MET),4
+King's Cross,King's Cross (MET),4
+Farringdon,Farringdon (MET),4
+Barbican,Barbican (MET),4
+Moorgate,Moorgate (MET),4
+Liverpool Street,Liverpool Street (MET),4
+Aldgate,Aldgate (MET),7
+West Ruislip,West Ruislip (CEN),10
+Ruislip Gardens,Ruislip Gardens (CEN),10
+South Ruislip,South Ruislip (CEN),10
+Northolt,Northolt (CEN),10
+Greenford,Greenford (CEN),10
+Perivale,Perivale (CEN),10
+Hanger Lane,Hanger Lane (CEN),10
+Ealing Broadway,Ealing Broadway (CEN),6
+West Acton,West Acton (CEN),6
+North Acton,North Acton (CEN),3
+East Acton,East Acton (CEN),3
+White City,White City (CEN),3
+Shepherd's Bush,Shepherd's Bush (CEN),3
+Holland Park,Holland Park (CEN),3
+Notting Hill Gate,Notting Hill Gate (CEN),3
+Queensway,Queensway (CEN),3
+Lancaster Gate,Lancaster Gate (CEN),3
+Marble Arch,Marble Arch (CEN),3
+Bond Street,Bond Street (CEN),3
+Oxford Circus,Oxford Circus (CEN),3
+Tottenham Court Road,Tottenham Court Road (CEN),3
+Holborn,Holborn (CEN),3
+Chancery Lane,Chancery Lane (CEN),3
+St. Paul's,St. Paul's (CEN),3
+Bank,Bank (CEN),3
+Liverpool Street,Liverpool Street (CEN),3
+Bethnal Green,Bethnal Green (CEN),2
+Mile End,Mile End (CEN),2
+Notting Hill Gate,Notting Hill Gate (CEN),2
+Stratford,Stratford (CEN),2
+Leyton,Leyton (CEN),2
+Leytonstone,Leytonstone (CEN),2
+Snaresbrook,Snaresbrook (CEN),6
+South Woodford,South Woodford (CEN),6
+Woodford,Woodford (CEN),8
+Buckhurst Hill,Buckhurst Hill (CEN),8
+Loughton,Loughton (CEN),8
+Debden,Debden (CEN),8
+Theydon Bois,Theydon Bois (CEN),8
+Epping,Epping (CEN),8
+Wanstead,Wanstead (CEN),5
+Redbridge,Redbridge (CEN),5
+Gants Hill,Gants Hill (CEN),5
+Newbury Park,Newbury Park (CEN),6
+Barkingside,Barkingside (CEN),6
+Fairlop,Fairlop (CEN),7
+Hainault,Hainault (CEN),8
+Grange Hill,Grange Hill (CEN),9
+Chigwell,Chigwell (CEN),9
+Roding Valley,Roding Valley (CEN),9
+Harrow & Wealdstone,Harrow & Wealdstone (BAK),6
+Kenton,Kenton (BAK),6
+South Kenton,South Kenton (BAK),6
+North Wembley,North Wembley (BAK),6
+Wembley Central,Wembley Central (BAK),6
+Stonebridge Park,Stonebridge Park (BAK),6
+Harlesden,Harlesden (BAK),6
+Willesden Junction,Willesden Junction (BAK),6
+Kensal Green,Kensal Green (BAK),6
+Queen's Park,Queen's Park (Bak),6
+Kilburn Park,Kilburn Park (BAK),6
+Maida Vale,Maida Vale (BAK),6
+Warwick Avenue,Warwick Avenue (BAK),6
+Paddington,Paddington (BAK),6
+Edgware Road (Bakerloo),Edgware Road (Bakerloo) (BAK),6
+Marylebone,Marylebone (BAK),6
+Baker Street,Baker Street (BAK),6
+Regent's Park,Regent's Park (BAK),6
+Oxford Circus,Oxford Circus (Bak),4
+Piccadilly Circus,Piccadilly Circus (BAK),4
+Charing Cross,Charing Cross (BAK),4
+Embankment,Embankment (BAK),4
+Waterloo,Waterloo (BAK),4
+Lambeth North,Lambeth North (BAK),4
+Elephant and Castle,Elephant and Castle (BAK),4
+Uxbridge,Uxbridge (PIC),6
+Hillingdon,Hillingdon (PIC),6
+Ickenham,Ickenham (PIC),6
+Ruislip,Ruislip (PIC),6
+Ruislip Manor,Ruislip Manor (PIC),6
+Eastcote,Eastcote (PIC),6
+Rayners Lane,Rayners Lane (PIC),6
+South Harrow,South Harrow (PIC),6
+Sudbury Hill,Sudbury Hill (PIC),6
+Sudbury Town,Sudbury Town (PIC),6
+Alperton,Alperton (PIC),6
+Park Royal,Park Royal (PIC),6
+North Ealing,North Ealing (PIC),6
+Ealing Common,Ealing Common (PIC),6
+Acton Town,Acton Town (PIC),3
+South Ealing,South Ealing (PIC),5
+Northfields,Northfields (PIC),5
+Boston Manor,Boston Manor (PIC),5
+Osterley,Osterley (PIC),5
+Hounslow East,Hounslow East (PIC),5
+Hounslow Central,Hounslow Central (PIC),5
+Hounslow West,Hounslow West (PIC),5
+Hatton Cross,Hatton Cross (PIC),5
+Heathrow Terminal 4,Heathrow Terminal 4 (PIC),5
+Heathrow Terminals 1 2 3,Heathrow Terminals 1 2 3 (PIC),5
+Heathrow Terminal 5,Heathrow Terminal 5 (PIC),10
+Turnham Green,Turnham Green (PIC),3
+Hammersmith (District),Hammersmith (District) (PIC),3
+Barons Court,Barons Court (PIC),3
+Earl's Court,Earl's Court (PIC),3
+Gloucester Road,Gloucester Road (PIC),3
+South Kensington,South Kensington (PIC),3
+Knightsbridge,Knightsbridge (PIC),3
+Hyde Park Corner,Hyde Park Corner (PIC),3
+Green Park,Green Park (PIC),3
+Piccadilly Circus,Piccadilly Circus (PIC),3
+Leicester Square,Leicester Square (PIC),3
+Covent Garden,Covent Garden (PIC),3
+Holborn,Holborn (PIC),3
+Russell Square,Russell Square (PIC),3
+King's Cross,King's Cross (PIC),3
+Caledonian Road,Caledonian Road (PIC),3
+Holloway Road,Holloway Road (PIC),3
+Arsenal,Arsenal (PIC),3
+Finsbury Park,Finsbury Park (PIC),3
+Manor House,Manor House (PIC),3
+Turnpike Lane,Turnpike Lane (PIC),3
+Wood Green,Wood Green (PIC),3
+Bounds Green,Bounds Green (PIC),3
+Arnos Grove,Arnos Grove (PIC),3
+Southgate,Southgate (PIC),3
+Oakwood,Oakwood (PIC),3
+Cockfosters,Cockfosters (PIC),3
+Bank,Bank (WAT),1000
+Waterloo,Waterloo (WAT),1000
+Stanmore,Stanmore (JUB),3
+Canons Park,Canons Park (JUB),3
+Queensbury,Queensbury (JUB),3
+Kingsbury,Kingsbury (JUB),3
+Wembley Park,Wembley Park (JUB),3
+Neasden,Neasden (JUB),3
+Dollis Hill,Dollis Hill (JUB),3
+Willesden Green,Willesden Green (JUB),3
+Kilburn,Kilburn (JUB),3
+West Hampstead,West Hampstead (JUB),3
+Finchley Road,Finchley Road (JUB),3
+Swiss Cottage,Swiss Cottage (JUB),3
+St. John's Wood,St. John's Wood (JUB),3
+Baker Street,Baker Street (JUB),3
+Bond Street,Bond Street (JUB),3
+Green Park,Green Park (JUB),3
+Westminster,Westminster (JUB),3
+Waterloo,Waterloo (JUB),3
+Southwark,Southwark (JUB),3
+London Bridge,London Bridge (JUB),3
+Bermondsey,Bermondsey (JUB),3
+Canada Water,Canada Water (JUB),3
+Canary Wharf,Canary Wharf (JUB),3
+North Greenwich,North Greenwich (JUB),3
+Canning Town,Canning Town (JUB),3
+West Ham,West Ham (JUB),3
+Stratford,Stratford (JUB),3
+High Barnet,High Barnet (NOR),4
+Totteridge & Whetstone,Totteridge & Whetstone (NOR),4
+Woodside Park,Woodside Park (NOR),4
+West Finchley,West Finchley (NOR),4
+Mill Hill East,Mill Hill East (NOR),12
+Finchley Central,Finchley Central (NOR),4
+East Finchley,East Finchley (NOR),4
+Highgate,Highgate (NOR),4
+Archway,Archway (NOR),4
+Tufnell Park,Tufnell Park (NOR),4
+Kentish Town,Kentish Town (NOR),4
+Edgware,Edgware (NOR),3
+Burnt Oak,Burnt Oak (NOR),3
+Colindale,Colindale (NOR),3
+Hendon Central,Hendon Central (NOR),3
+Brent Cross,Brent Cross (NOR),3
+Golders Green,Golders Green (NOR),3
+Hampstead,Hampstead (NOR),3
+Belsize Park,Belsize Park (NOR),3
+Chalk Farm,Chalk Farm (NOR),3
+Camden Town,Camden Town (NOR),3
+Mornington Crescent,Mornington Crescent (NOR),3
+Euston,Euston (NOR),3
+Warren Street,Warren Street (NOR),3
+Goodge Street,Goodge Street (NOR),3
+Tottenham Court Road,Tottenham Court Road (NOR),3
+Leicester Square,Leicester Square (NOR),3
+Charing Cross,Charing Cross (NOR),3
+Embankment,Embankment (NOR),3
+Waterloo,Waterloo (NOR),3
+King's Cross,King's Cross (NOR),3
+Angel,Angel (NOR),3
+Old Street,Old Street (NOR),3
+Moorgate,Moorgate (NOR),3
+Bank,Bank (NOR),3
+London Bridge,London Bridge (NOR),3
+Borough,Borough (NOR),3
+Elephant and Castle,Elephant and Castle (NOR),3
+Kennington,Kennington (NOR),3
+Oval,Oval (NOR),2
+Stockwell,Stockwell (NOR),2
+Clapham North,Clapham North (NOR),2
+Clapham Common,Clapham Common (NOR),2
+Clapham South,Clapham South (NOR),2
+Balham,Balham (NOR),2
+Tooting Bec,Tooting Bec (NOR),2
+Tooting Broadway,Tooting Broadway (NOR),2
+Colliers Wood,Colliers Wood (NOR),2
+South Wimbledon,South Wimbledon (NOR),2
+Morden,Morden (NOR),2
+Edgware Road (Circle/District/Hammersmith and City),Edgware Road (Circle/District/Hammersmith and City) (CIR),7
+Baker Street,Baker Street (CIR),7
+Great Portland Street,Great Portland Street (CIR),7
+Euston Square,Euston Square (CIR),7
+King's Cross,King's Cross (CIR),7
+Farringdon,Farringdon (CIR),7
+Barbican,Barbican (CIR),7
+Moorgate,Moorgate (CIR),7
+Liverpool Street,Liverpool Street (CIR),7
+Aldgate,Aldgate (CIR),7
+Tower Hill,Tower Hill (CIR),7
+Monument,Monument (CIR),7
+Cannon Street,Cannon Street (CIR),7
+Mansion House,Mansion House (CIR),7
+Blackfriars,Blackfriars (CIR),7
+Temple,Temple (CIR),7
+Embankment,Embankment (CIR),7
+Westminster,Westminster (CIR),7
+St. James's Park,St. James's Park (CIR),7
+Victoria,Victoria (CIR),7
+Sloane Square,Sloane Square (CIR),7
+South Kensington,South Kensington (CIR),7
+Gloucester Road,Gloucester Road (CIR),7
+High Street Kensington,High Street Kensington (CIR),7
+Notting Hill Gate,Notting Hill Gate (CIR),7
+Bayswater,Bayswater (CIR),7
+Paddington,Paddington (CIR),7
+Hammersmith (Hammersmith),Hammersmith (Hammersmith) (HAM),10
+Goldhawk Road,Goldhawk Road (HAM),10
+Shepherd's Bush Market,Shepherd's Bush Market (HAM),10
+Wood Lane,Wood Lane (HAM),10
+Latimer Road,Latimer Road (HAM),10
+Ladbroke Grove,Ladbroke Grove (HAM),10
+Westbourne Park,Westbourne Park (HAM),10
+Royal Oak,Royal Oak (HAM),10
+Paddington,Paddington (HAM),10
+Edgware Road (Circle/District/Hammersmith and City),Edgware Road (Circle/District/Hammersmith and City) (HAM),10
+Baker Street,Baker Street (HAM),10
+Great Portland Street,Great Portland Street (HAM),10
+Euston Square,Euston Square (HAM),10
+King's Cross,King's Cross (HAM),10
+Farringdon,Farringdon (HAM),10
+Barbican,Barbican (HAM),10
+Moorgate,Moorgate (HAM),10
+Liverpool Street,Liverpool Street (HAM),10
+Aldgate East,Aldgate East (HAM),10
+Whitechapel,Whitechapel (HAM),10
+Stepney Green,Stepney Green (HAM),10
+Mile End,Mile End (HAM),10
+Bow Road,Bow Road (HAM),10
+Bromley-by-Bow,Bromley-by-Bow (HAM),10
+West Ham,West Ham (HAM),10
+Plaistow,Plaistow (HAM),10
+Upton Park,Upton Park (HAM),10
+East Ham,East Ham (HAM),10
+Barking,Barking (HAM),10
+Ealing Broadway,Ealing Broadway (DIS),10
+Ealing Common,Ealing Common (DIS),10
+Acton Town,Acton Town (DIS),10
+Chiswick Park,Chiswick Park (DIS),10
+Richmond,Richmond (DIS),8
+Kew Gardens,Kew Gardens (DIS),8
+Gunnersbury,Gunnersbury (DIS),8
+Turnham Green,Turnham Green (DIS),8
+Stamford Brook,Stamford Brook (DIS),6
+Ravenscourt Park,Ravenscourt Park (DIS),6
+Hammersmith (District),Hammersmith (District) (DIS),6
+Barons Court,Barons Court (DIS),6
+West Kensington,West Kensington (DIS),6
+Wimbledon,Wimbledon (DIS),4
+Wimbledon Park,Wimbledon Park (DIS),4
+Southfields,Southfields (DIS),4
+East Putney,East Putney (DIS),4
+Putney Bridge,Putney Bridge (DIS),4
+Parsons Green,Parsons Green (DIS),4
+Fulham Broadway,Fulham Broadway (DIS),4
+West Brompton,West Brompton (DIS),4
+Earl's Court,Earl's Court (DIS),4
+Edgware Road (Circle/District/Hammersmith and City),Edgware Road (Circle/District/Hammersmith and City) (DIS),10
+High Street Kensington,High Street Kensington (DIS),10
+Notting Hill Gate,Notting Hill Gate (DIS),10
+Bayswater,Bayswater (DIS),10
+Paddington,Paddington (DIS),10
+Gloucester Road,Gloucester Road (DIS),6
+South Kensington,South Kensington (DIS),5
+Sloane Square,Sloane Square (DIS),5
+Victoria,Victoria (DIS),5
+St. James's Park,St. James's Park (DIS),5
+Westminster,Westminster (DIS),5
+Embankment,Embankment (DIS),5
+Temple,Temple (DIS),5
+Blackfriars,Blackfriars (DIS),5
+Mansion House,Mansion House (DIS),5
+Cannon Street,Cannon Street (DIS),5
+Monument,Monument (DIS),5
+Tower Hill,Tower Hill (DIS),5
+Aldgate East,Aldgate East (DIS),5
+Whitechapel,Whitechapel (DIS),5
+Stepney Green,Stepney Green (DIS),5
+Mile End,Mile End (DIS),5
+Bow Road,Bow Road (DIS),5
+Bromley-by-Bow,Bromley-by-Bow (DIS),5
+West Ham,West Ham (DIS),5
+Plaistow,Plaistow (DIS),5
+Upton Park,Upton Park (DIS),5
+East Ham,East Ham (DIS),5
+Barking,Barking (DIS),5
+Upney,Upney (DIS),5
+Becontree,Becontree (DIS),5
+Dagenham Heathway,Dagenham Heathway (DIS),5
+Dagenham East,Dagenham East (DIS),5
+Elm Park,Elm Park (DIS),5
+Hornchurch,Hornchurch (DIS),5
+Upminster Bridge,Upminster Bridge (DIS),5
+Upminster,Upminster (DIS),5
+Kensington,Kensington (DIS),1000
+Brixton,Brixton (VIC),2
+Stockwell,Stockwell (VIC),2
+Vauxhall,Vauxhall (VIC),2
+Pimlico,Pimlico (VIC),2
+Victoria,Victoria (VIC),2
+Green Park,Green Park (VIC),2
+Oxford Circus,Oxford Circus (VIC),2
+Warren Street,Warren Street (VIC),2
+Euston,Euston (VIC),2
+King's Cross,King's Cross (VIC),2
+Highbury & Islington,Highbury & Islington (VIC),2
+Finsbury Park,Finsbury Park (VIC),2
+Seven Sisters,Seven Sisters (VIC),2
+Tottenham Hale,Tottenham Hale (VIC),2
+Blackhorse Road,Blackhorse Road (VIC),2
+Walthamstow Central,Walthamstow Central (VIC),2
+Bank,Bank (DLR),4
+Tower Gateway,Tower Gateway (DLR),4
+Shadwell,Shadwell (DLR),4
+Limehouse,Limehouse (DLR),4
+Westferry,Westferry (DLR),4
+West India Quay,West India Quay (DLR),4
+Canary Wharf,Canary Wharf (DLR),4
+Poplar,Poplar (DLR),4
+Heron Quays,Heron Quays (DLR),4
+South Quay,South Quay (DLR),4
+Crossharbour,Crossharbour (DLR),4
+Mudchute,Mudchute (DLR),4
+Island Gardens,Island Gardens (DLR),4
+Cutty Sark,Cutty Sark (DLR),4
+Greenwich,Greenwich (DLR),4
+Deptford Bridge,Deptford Bridge (DLR),4
+Elverson Road,Elverson Road (DLR),4
+Lewisham,Lewisham (DLR),4
+Blackwall,Blackwall (DLR),4
+East India,East India (DLR),4
+Canning Town,Canning Town (DLR),4
+West Silvertown,West Silvertown (DLR),4
+Pontoon Dock,Pontoon Dock (DLR),4
+London City Airport,London City Airport (DLR),4
+King George V,King George V (DLR),4
+Woolwich Arsenal,Woolwich Arsenal (DLR),4
+Royal Victoria,Royal Victoria (DLR),6
+Custom House,Custom House (DLR),6
+Prince Regent,Prince Regent (DLR),6
+Royal Albert,Royal Albert (DLR),6
+Beckton Park,Beckton Park (DLR),6
+Cyprus,Cyprus (DLR),6
+Gallions Reach,Gallions Reach (DLR),6
+Beckton,Beckton (DLR),6
+All Saints,All Saints (DLR),6
+Langdon Park,Langdon Park (DLR),6
+Devons Road,Devons Road (DLR),6
+Bow Church,Bow Church (DLR),6
+Pudding Mill Lane,Pudding Mill Lane (DLR),6
+Stratford,Stratford (DLR),6
+Barking,Barking (OGD),10
+Woodgrange Park,Woodgrange Park (OGD),10
+Wanstead Park,Wanstead Park (OGD),10
+Leytonstone High Road,Leytonstone High Road (OGD),10
+Leyton Midland Road,Leyton Midland Road (OGD),10
+Walthamstow Queen's Road,Walthamstow Queen's Road (OGD),10
+Blackhorse Road,Blackhorse Road (OGD),10
+South Tottenham,South Tottenham (OGD),10
+Harringay Green Lanes,Harringay Green Lanes (OGD),10
+Crouch Hill,Crouch Hill (OGD),10
+Upper Holloway,Upper Holloway (OGD),10
+Stratford,Stratford (OGD),10
+Hackney Wick,Hackney Wick (OGD),10
+Homerton,Homerton (OGD),10
+Hackney Central,Hackney Central (OGD),10
+Dalston Kingsland,Dalston Kingsland (OGD),10
+Canonbury,Canonbury (OGD),10
+Highbury & Islington,Highbury & Islington (OGD),10
+Caledonian Road & Barnsbury,Caledonian Road & Barnsbury (OGD),10
+Camden Road,Camden Road (OGD),10
+Kentish Town West,Kentish Town West (OGD),10
+Gospel Oak,Gospel Oak (OGD),6
+Hampstead Heath,Hampstead Heath (OGD),6
+Finchley Road & Frognal,Finchley Road & Frognal (OGD),6
+West Hampstead,West Hampstead (OGD),6
+Brondesbury,Brondesbury (OGD),6
+Brondesbury Park,Brondesbury Park (OGD),6
+Kensal Rise,Kensal Rise (OGD),6
+Willesden Junction,Willesden Junction (OGD),15
+Shepherd's Bush,Shepherd's Bush (OGD),15
+Kensington,Kensington (OGD),15
+West Brompton,West Brompton (OGD),15
+Imperial Wharf,Imperial Wharf (OGD),15
+Clapham Junction,Clapham Junction (OGD),15
+Acton Central,Acton Central (OGD),15
+South Acton,South Acton (OGD),15
+Gunnersbury,Gunnersbury (OGD),15
+Kew Gardens,Kew Gardens (OGD),15
+Richmond,Richmond (OGD),15
+Watford Junction,Watford Junction (OGD),15
+Watford High Street,Watford High Street (OGD),15
+Bushey,Bushey (OGD),15
+Carpenders Park,Carpenders Park (OGD),15
+Hatch End,Hatch End (OGD),15
+Headstone Lane,Headstone Lane (OGD),15
+Harrow & Wealdstone,Harrow & Wealdstone (OGD),15
+Kenton,Kenton (OGD),15
+South Kenton,South Kenton (OGD),15
+North Wembley,North Wembley (OGD),15
+Wembley Central,Wembley Central (OGD),15
+Stonebridge Park,Stonebridge Park (OGD),15
+Harlesden,Harlesden (OGD),15
+Kensal Green,Kensal Green (OGD),15
+Queen's Park,Queen's Park (OGD),15
+Kilburn High Road,Kilburn High Road (OGD),15
+South Hampstead,South Hampstead (OGD),15
+Euston,Euston (OGD),15
